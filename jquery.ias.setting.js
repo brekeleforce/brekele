@@ -5,8 +5,8 @@ jQuery('document').ready(function($) {
 function setup_ajax_pagination()
 {
 jQuery.ias({
- container  : ".main-inner",
-  item      : ".post-outer",
+ container  : "#main",
+  item      : ".post-body",
   pagination    : ".main-inner .blog-pager",
   next      : ".blog-pager a.blog-pager-older-link",
     history:false,
