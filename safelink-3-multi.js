@@ -25,7 +25,7 @@ if(x=="1"){xxx="safelink-1.html"}
 if(x=="2"){xxx="safelink-2.html"}
 if(x=="3"){xxx="safelink-3.html"}
 if(x=="4"){xxx="safelink-4.html"}
-if(x=="5"){xxx="safelink-5.html"}a_to_ve[i].href="http://carsgiant.blogspot.com/2017/01/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="safelink-5.html"}a_to_ve[i].href="https://carsgiant.blogspot.com/2017/01/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
